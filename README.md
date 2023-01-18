@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.ejor.2021.07.050" class="plumx-details" data-site="plum" data-hide-when-empty="true">Pickup and delivery problems with autonomous vehicles on rings</a>
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
